@@ -1,18 +1,17 @@
 # dlxj
-电力巡检平台系统介绍
-平台介绍
+@[TOC](电力巡检平台系统介绍)
+
+# 平台介绍
+
 本平台分为PC和安卓App两端，pc端为平台管理端，分为用户、部门管理、设备信息管理、巡检任务管理、设备缺陷、消缺管理等主要功能；app端主要为巡检人员使用，对于使用人员，拥有巡检任务、采集设备信息、缺陷上报等功能，管理员也可登录app端，可进行巡检任务创建、查看缺陷统计、巡视到位统计等功能。
 平台结合百度地图SDK用于记录各个设备位置信息，同时可实时记录巡检人员行进轨迹，当巡检人员开始巡检任务时，即开始记录巡检人员行进轨迹，管理员可在pc端中控大屏处根据不同任务查询该任务行进轨迹。
-联系方式
+## 联系方式
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210118094354703.png#pic_center)
+
 手机：18612878499（微信）      李逍
-演示地址
-地址：
-App下载链接：
-账号密码
-Pc：
-App：
-演示环境有全方位的监控记录，请大家下手轻点
-技术选型
+## 演示地址
+如需演示地址，请添加微信沟通获取
+## 技术选型
 1、环境
 Java SDK 8
 Apache Maven 3.6+
@@ -55,8 +54,11 @@
 6、存储
 数据库：Mysql
 缓存：Redis
-主要功能
-1、系统管理
+
+## 主要功能
+
+*
+系统管理
 用户管理
 主要功能包括：用户的维护、查询、授权角色、授权数据权限
 数据权限包括：拥有的权限和管理的权限；用户管理的数据权限被定义为管理的权限。管理的数据权限你需要在二级管理员里进行配置。
@@ -86,8 +88,26 @@
 查看指定线路图
 查看巡检人员轨迹
 特殊设备标识
-缺陷设备标识
-购前须知
+缺陷设备标识
+## 业务图
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210118094608421.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NTUxNDg2,size_16,color_FFFFFF,t_70#pic_center)
+## 平台截图
+![首页中控概览](https://img-blog.csdnimg.cn/20210118094714465.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NTUxNDg2,size_16,color_FFFFFF,t_70#pic_center)
+![实景线路图](https://img-blog.csdnimg.cn/20210118094740318.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NTUxNDg2,size_16,color_FFFFFF,t_70)
+![线路图](https://img-blog.csdnimg.cn/20210118094740233.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NTUxNDg2,size_16,color_FFFFFF,t_70)
+![设备缺陷信息](https://img-blog.csdnimg.cn/20210118094740216.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NTUxNDg2,size_16,color_FFFFFF,t_70)
+![设备详情](https://img-blog.csdnimg.cn/20210118094740204.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NTUxNDg2,size_16,color_FFFFFF,t_70)
+![巡检任务](https://img-blog.csdnimg.cn/20210118094740206.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NTUxNDg2,size_16,color_FFFFFF,t_70)
+![设备详情](https://img-blog.csdnimg.cn/20210118094740176.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NTUxNDg2,size_16,color_FFFFFF,t_70)
+![缺陷基础信息](https://img-blog.csdnimg.cn/20210118094740180.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NTUxNDg2,size_16,color_FFFFFF,t_70)
+![统计信息](https://img-blog.csdnimg.cn/20210118094740170.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NTUxNDg2,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2021011809494553.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2021011809494580.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2021011809494551.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2021011809494538.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210118094944990.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210118094944968.png)
+## 购前须知
 1.项目内容：源码 + 数据库脚本（如需相关文档联系客服）。如有二开需求，定制开发需求可以随时联系我们。
 2.售后服务：相关文档可以提供，其他不包教不包指导不包解答 ,这个价格做不到再包教包解答的服务。
 3.代码加密和封装jar说明：提供的是全部源码，如需license,需要自行获取授权（获取办法文档提供）。
