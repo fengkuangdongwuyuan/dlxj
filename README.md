@@ -6,7 +6,7 @@
 
 #### 联系方式
 手机：18612878499（微信）      李逍
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210116111408.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210116111408.png)
 #### 演示地址
 如需演示地址，请添加微信沟通
 
@@ -88,25 +88,25 @@
 * 缺陷设备标识
 
 #### 业务图
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/%E7%94%B5%E5%8A%9B%E5%B7%A1%E6%A3%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/%E7%94%B5%E5%8A%9B%E5%B7%A1%E6%A3%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
 
 #### 平台截图
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/1.png)
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/2.png)
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/3.png)
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/4.png)
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/5.png)
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/6.png)
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/7.png)
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/8.png)
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/9.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/1.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/2.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/3.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/4.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/5.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/6.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/7.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/8.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/9.png)
 #### APP截图
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/10.png)
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/11.png)
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/12.png)
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/13.png)
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/14.png)
-![Image text](https://gitee.com/chaoyangwangzhan/dlxj/raw/master/images/15.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/10.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/11.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/12.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/13.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/14.png)
+![Image text](https://raw.githubusercontent.com/fengkuangdongwuyuan/dlxj/main/image/15.png)
 #### 使用须知
 1. 项目内容：源码 + 数据库脚本（如需相关文档联系客服）。如有二开需求，定制开发需求可以随时联系我们。
 2. 售后服务：相关文档可以提供，其他不包教不包指导不包解答 ,这个价格做不到再包教包解答的服务。
